@@ -23,6 +23,7 @@ class Proxy implements ProxyBase {
 }
 
 class Implementation implements ProxyBase {
+
   @Override public void f() {
     System.out.println("Implementation.f()");
   }

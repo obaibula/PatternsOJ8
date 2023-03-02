@@ -5,53 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5667993-be5e-4fee-9c03-2afe4448e4f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/singleton/DoubleSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/singleton/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/singleton/TestSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/state/MyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/template/MyTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Bassoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/InstrumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/InstrumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Violin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/BigEnumSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/BigEnumSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/CarWash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/ConstantSpecificMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/ConstantSpecificMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/EnumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/EnumClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/NonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/NonEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/NotClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/NotClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/OverrideConstantSpecific.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/OverrideConstantSpecific.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/OzWitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/OzWitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/PostOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/RandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/RandomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/Reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/SecurityCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/SecurityCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/SpaceShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/TrafficLight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/UpcastEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/UpcastEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/onjava/Rand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onjava/Rand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/onjava/TestRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onjava/TestRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/onjava/atunit/AtUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onjava/atunit/AtUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/BoxObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/BoxObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/CleanTheFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/CleanTheFloor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/CommandPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/CommandPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Facade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Macro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Macro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/PaperScissorsRock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/PaperScissorsRock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/patterns/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/ProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/ShapeFactory3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Single.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Single.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/SingletonPattern3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/StateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/StateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/TemplateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/TemplateMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/TestSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/TestSingle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -79,19 +42,21 @@
     </option>
   </component>
   <component name="ProjectId" id="2MP2RZy0GjE8XrXcpBpxrxyeRcZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kuznetsov.aa.HITED1UA/IdeaProjects/PatternsOJ8/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kuznetsov.aa.HITED1UA/IdeaProjects/PatternsOJ8/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kuznetsov.aa.HITED1UA\IdeaProjects\PatternsOJ8\src\main\java" />
