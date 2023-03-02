@@ -13,8 +13,9 @@ public class Macro {
     ));
     macro.forEach(Runnable::run);
     macro.add(
-      () -> System.out.print("I'm the command pattern!")
+      () -> System.out.println("I'm the command pattern!")
     );
+    macro.add(() -> System.out.println("Sieg Heil!"));
     macro.forEach(Runnable::run);
   }
 }

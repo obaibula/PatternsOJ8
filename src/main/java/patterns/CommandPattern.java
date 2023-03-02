@@ -18,6 +18,7 @@ public class CommandPattern {
   public static void main(String[] args) {
     show(new Command("First Command"));
     show(new Command("Second Command"));
+    show(new Command("Sieg Heil!"));
   }
 }
 /* Output:

@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5667993-be5e-4fee-9c03-2afe4448e4f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Bassoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/FactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/InstrumentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/InstrumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mypatterns/factory/Violin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/ProxyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/CommandPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/CommandPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Macro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Macro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfactory/GameEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/abstractfactory/GameEnvironment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/StrategyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/strategy/StrategyPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +19,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,9 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2MP2RZy0GjE8XrXcpBpxrxyeRcZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
